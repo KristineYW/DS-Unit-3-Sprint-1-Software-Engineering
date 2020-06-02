@@ -24,7 +24,7 @@ environment with `pipenv`, installing our dependencies, and making some classes.
 2) Implement at least 2 of the following "helper" utility functions:
   - Check a dataframe for nulls, print/report them in a nice "pretty" format
   - Report a confusion matrix, with labels for easier interpretation
-  - Train/*validate*/test split function for a dataframe
+ *- Train/*validate*/test split function for a dataframe*
   - "Generate more data" function, takes dataframes and makes more rows
   - Contingency table + Chi-squared report function: takes two categorical
     variables, outputs a contingency table and corresponding Chi-squared test
@@ -37,7 +37,7 @@ environment with `pipenv`, installing our dependencies, and making some classes.
     dataframe as a new column
   - 1.5*Interquartile range outlier detection/removal function.
   - Function to set notebook display options.
-  - Function to split dates ("MM/DD/YYYY", etc.) into multiple columns
+  *- Function to split dates ("MM/DD/YYYY", etc.) into multiple columns*
   - Your idea here! (You will implement more later in the week as well)
 3) Register for a [test PyPI account](https://test.pypi.org/account/register/)
 4) Publish your package as `lambdata-yourusername` (to avoid conflicts)
